@@ -15,7 +15,7 @@
 		"eslint-plugin-react": "^6.10.0",
 		"react": "~15.4.0",
 		"react-native": "0.41.2",
-		"react-native-sglistview": "^0.3.9",
+		"react-native-sglistview": "^0.3.10",
 		"superagent": "^3.5.0"
 	},
 	"devDependencies": {
